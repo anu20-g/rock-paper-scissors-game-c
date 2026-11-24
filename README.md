@@ -1,0 +1,1 @@
+# Rock Paper Scissors Game - Team 1\n\nPlay against the computer and keep track of scores.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
